@@ -16,6 +16,7 @@ class Account{
 
 }
 
+// child class can either stregthen the invariation not narrow it down
 // int this class it override the fxn it voilate the condition written in Parent
 class FarziAccount extends Account{
     FarziAccount(double balance){
