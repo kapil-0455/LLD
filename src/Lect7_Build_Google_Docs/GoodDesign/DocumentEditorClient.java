@@ -4,6 +4,7 @@ import java.util.List;
 import java.io.FileWriter;
 import java.io.IOException;
 
+// making diffrent interfaces to seggreagte
 // Interface for document elements
 interface DocumentElement {
     public abstract String render();
